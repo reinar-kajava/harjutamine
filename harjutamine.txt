@@ -1,2 +1,2 @@
 Github on faili ja koodijagamisteenus, mida peamiselt kasutavad programmeerijad
-Github loodi 2008. aastal 
+Github loodi 2008. aastal. Selle peamiseks loojateks olid  Chris Wanstrath, P. J. Hyett ja Tom Preston-Werner.
